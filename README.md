@@ -10,7 +10,7 @@ Traditional e-learning systems often fail to accommodate the diverse needs of le
 
 In the prototype, users can easily transform text on the interface into conversational audio output and make UI adjustments by chatting with the agent, and highlights how for students with visual or cognitive impairments, the process of navigating or adjusting an unfamiliar learning system demonstrates substantial potential in smoothing the challenges they may face in traditional e-learning platforms.
 
-![Sample adaptions](./figures/adaptations-on-ui.jpg)
+[Sample adaption video](./video/agent-demo-video.mp4)
 
 ## System design
 
